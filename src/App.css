@@ -1,0 +1,28 @@
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.cart {
+  /* border: 1px solid rgb(159, 158, 158); */
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(250, 248, 248);
+  width: 225px;
+  height: 370px;
+}
+#cartContainer{
+  
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(249, 250, 251);
+  color: rgb(116, 115, 115);
+}
+img{
+  width: 200px;
+  height: 230px;
+}
